@@ -3,7 +3,10 @@
 A location-aware card game inspired by the classic "War" card game, enriched with animations, sounds, global player positioning, and real-time visual feedback.
 
 ## Link to app demo video
-- https://drive.google.com/drive/folders/1HQQRiWU5Ct4MBXfE6trB0qedB_3WDHF2?usp=sharing
+- https://drive.google.com/file/d/1JNuJc299GzH3tK5tVF84xpedBBBQOadQ/view?usp=sharing
+
+## Link to full project zip file
+- https://drive.google.com/file/d/1rXkupVG1OqpfnmuK5Gca8mbn-7m28EaL/view?usp=sharing
   
 ## Features
 
